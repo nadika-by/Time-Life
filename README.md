@@ -1,31 +1,33 @@
 # Time & Life App
 **DIGITAL LEDGER | HEALTH AND PROFESSIONAL GROWTH**
 
-![Time & Life Logo](Logo.png)
+![Time & Life Logo](Лого%20TIME&LIFE.jpg)
 
 ---
 
 ### [EN] About the Project
-**Time & Life App** is a digital ecosystem designed to monetize human capital through transparent interaction between citizens, businesses, and the state. The platform transforms time, health, and professional stability into a liquid asset.
-
-**Mission:** To provide a dignified life and continuous growth for every individual by converting verified health and labor metrics into a personal investment fund, secured by state social taxes (OSMS, OPVR, Social Tax).
+**Time & Life App** is a multifunctional digital ecosystem that serves as a personal guardian, health controller, and professional identity. It is a unified platform for managing the life cycle and safety of people and their pets.
 
 **Key Features:**
-* **Biometric Activation:** Access via fingerprint (100% authenticity).
-* **Tax-Backed Assets:** Token accumulation (TimeCoin) from state social payments.
-* **Targeted Consumption:** Payments for medical services, licensing, education, and dignified end-of-life care.
+* **Digital Health Passport:** Real-time health monitoring and medical history.
+* **Digital Labor Record & Resume:** Verified professional path and skills.
+* **Real-time Health Controller:** AI-driven monitoring of vital signs.
+* **Safety Guardian & SOS Operator:** Intelligent emergency system. A single "SOS button" instantly alerts family, employers, security services, medical emergency, and police.
+* **Pet Care:** Integrated tracking and health passports for animals.
+* **Biometric Security:** Access via fingerprint (100% data authenticity).
 
 ---
 
 ### [RU] О проекте
-**Time & Life App** — это цифровая экосистема, созданная для монетизации человеческого капитала через прозрачное взаимодействие граждан, бизнеса и государства. Платформа превращает время, здоровье и профессиональную устойчивость в ликвидный актив.
-
-**Миссия:** Обеспечить достойную жизнь и непрерывный рост каждого человека, конвертируя верифицированные показатели здоровья и труда в личный инвестиционный фонд, обеспеченный государственными социальными налогами (ОСМС, ОПВР, Соц. налог).
+**Time & Life App** — это многофункциональная цифровая экосистема, которая выступает в роли персонального охранника, контролера здоровья и цифрового профиля личности. Единая платформа для управления жизненным циклом и безопасностью людей и их питомцев.
 
 **Основные возможности:**
-* **Биометрическая активация:** Доступ строго по отпечатку пальца (100% достоверность данных).
-* **Активы на базе налогов:** Накопление токенов (TimeCoin) через возврат государственных социальных отчислений.
-* **Целевое использование:** Оплата медицинских услуг, лицензирования, обучения и достойного ухода.
+* **Цифровой паспорт здоровья:** Мониторинг показателей и история здоровья в реальном времени.
+* **Цифровая трудовая книжка и резюме:** Верифицированный профессиональный путь и достижения.
+* **Контролер здоровья:** Искусственный интеллект, отслеживающий состояние организма 24/7.
+* **Охранник и SOS-оператор:** Интеллектуальная система экстренной помощи. Одна кнопка "SOS" мгновенно оповещает родных, руководителя предприятия, начальника охраны, скорую помощь и полицию.
+* **Забота о животных:** Интегрированные паспорта здоровья и трекинг для питомцев.
+* **Биометрическая защита:** Доступ строго по отпечатку пальца (100% достоверность данных).
 
 ---
 
