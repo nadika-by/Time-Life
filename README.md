@@ -6,13 +6,14 @@
 ---
 
 ### [EN] About the Project
-**Time & Life App** is a multifunctional digital ecosystem that serves as a personal guardian, health controller, and professional identity. It is a unified platform for managing the life cycle and safety of people and their pets.
+**Time & Life App** is a multifunctional digital ecosystem that serves as a personal guardian, health controller, and professional identity. It is a unified platform for managing the life cycle and safety of people (from early childhood to senior years) and their pets.
 
 **Key Features:**
-* **Digital Health Passport:** Real-time monitoring of vital signs and medical history.
-* **Digital Labor Record & Resume:** A verified professional path, skills, and achievements ledger.
+* **Digital Health Passport:** Real-time monitoring of vital signs and medical history for adults and children.
+* **Educational & Labor Ledger:** * **For Children:** Digital records for **kindergartens, schools, and universities**. Tracking academic progress and extracurricular achievements.
+    * **For Adults:** A verified professional path, skills, and resume ledger.
 * **Real-time Health Controller:** 24/7 AI-driven monitoring via connected hardware.
-* **Safety Guardian & SOS Operator:** Intelligent emergency system. A single **"SOS button"** instantly alerts family, employers, security services, medical emergency, and police.
+* **Safety Guardian & SOS Operator:** Intelligent emergency system. A single **"SOS button"** instantly alerts family, school administration, employers, security, medical services, and police.
 * **Hardware Integration:** Supports specialized **smart forearm bracelets**, **wearable badges**, and **smart pet collars** for continuous data sync and safety.
 * **Pet Care:** Integrated health passports and tracking for your pets.
 * **Biometric Security:** Access exclusively via fingerprint (100% data authenticity).
@@ -20,13 +21,14 @@
 ---
 
 ### [RU] О проекте
-**Time & Life App** — это многофункциональная цифровая экосистема, которая выступает в роли персонального охранника, контролера здоровья и цифрового профиля личности. Единая платформа для управления жизненным циклом и безопасностью людей и их питомцев.
+**Time & Life App** — это многофункциональная цифровая экосистема, которая выступает в роли персонального охранника, контролера здоровья и цифрового профиля личности. Единая платформа для управления жизненным циклом и безопасностью людей (от детского сада до преклонного возраста) и их питомцев.
 
 **Основные возможности:**
-* **Цифровой паспорт здоровья:** Мониторинг показателей и история здоровья в реальном времени.
-* **Цифровая трудовая книжка и резюме:** Верифицированный профессиональный путь, навыки и реестр достижений.
+* **Цифровой паспорт здоровья:** Мониторинг показателей и история здоровья в реальном времени для взрослых и детей.
+* **Образовательный и трудовой реестр:** * **Для детей:** Цифровой профиль для **детских садов, школ и высших учебных заведений**. Фиксация успеваемости и внеучебных достижений.
+    * **Для взрослых:** Верифицированный профессиональный путь, навыки и реестр достижений (резюме).
 * **Контролер здоровья:** Искусственный интеллект, отслеживающий состояние организма 24/7 через подключенные устройства.
-* **Охранник и SOS-оператор:** Интеллектуальная система экстренной помощи. Одна кнопка **"SOS"** мгновенно оповещает родных, руководителя предприятия, начальника охраны, скорую помощь и полицию.
+* **Охранник и SOS-оператор:** Интеллектуальная система экстренной помощи. Одна кнопка **"SOS"** мгновенно оповещает родных, администрацию учебного заведения, руководителя предприятия, начальника охраны, скорую помощь и полицию.
 * **Интеграция с оборудованием:** Поддержка специализированных **смарт-браслетов на предплечье**, **носимых бэйджей** и **умных ошейников для животных** для непрерывной передачи данных.
 * **Забота о животных:** Интегрированные паспорта здоровья и трекинг для ваших питомцев.
 * **Биометрическая защита:** Доступ строго по отпечатку пальца (100% достоверность данных).
